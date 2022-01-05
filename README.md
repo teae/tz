@@ -1,2 +1,2 @@
 # tz
-js files.js
+js virplus/view/js/*.js
